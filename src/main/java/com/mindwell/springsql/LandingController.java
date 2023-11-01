@@ -8,6 +8,6 @@ public class LandingController {
 
 	@GetMapping("/")
 	public String hello(){
-		return "Hello World with new changes!!!";
+		return "Hello World with latest changes!!!";
 	}
 }
